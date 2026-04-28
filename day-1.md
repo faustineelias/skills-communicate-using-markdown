@@ -1,6 +1,10 @@
 # Daily Learning
 <h1>Self paced learning</h1>
-## Morning Planning
+<h1> Morning Planning</h1>
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
+
 <h2>Today's to-do:</h2>
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
